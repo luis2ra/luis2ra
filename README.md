@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **luis2ra/luis2ra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,8 +13,30 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png">
-  <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
-  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png" width="100">
-</picture>
+# 👋 Hi!, I'm Luis Altuve
+
+🎯 Desarrollador web enfocado en crear soluciones eficientes y escalables.  
+📍 Trabajo desde casa en Pamplona, Colombia.  
+📚 Actualmente profundizando en tecnologías backend y JavaScript.  
+🔗 [Mi perfil en LinkedIn](https://www.linkedin.com/in/luis-altuve)
+
+---
+
+## 🛠️ Tecnologías y Herramientas
+
+- **Lenguajes:** Python, JavaScript  
+- **Frameworks:** FastApi, Django, Flask, Node.js, React.js, Express.js  
+- **Bases de Datos:** PostgreSQL, MongoDB  
+- **Control de Versiones:** Git, GitHub  
+
+---
+
+## 📫 Contacto
+
+Estoy abierto a colaborar y conectar:  
+🔗 [LinkedIn](https://www.linkedin.com/in/luis-altuve)  
+✉️ luis2ra@gmail.com
+
+---
+
+¡Gracias por visitar mi perfil de GitHub!
