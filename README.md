@@ -31,12 +31,4 @@ Here are some ideas to get you started:
 
 ---
 
-## 📫 Contacto
-
-Estoy abierto a colaborar y conectar:  
-🔗 [LinkedIn](https://www.linkedin.com/in/luis-altuve)  
-✉️ luis2ra@gmail.com
-
----
-
-¡Gracias por visitar mi perfil de GitHub!
+<p align="center">¡Gracias por visitar mi perfil de GitHub!</p>
