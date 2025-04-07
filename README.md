@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 # 👋 Hi!, I'm Luis Altuve
 
 🎯 Desarrollador web enfocado en crear soluciones eficientes y escalables.  
-📍 Trabajo desde casa en Pamplona, Colombia.  
+📍 Trabajo remoto desde Pamplona, Colombia.  
 📚 Actualmente profundizando en tecnologías backend y JavaScript.  
 🔗 [Mi perfil en LinkedIn](https://www.linkedin.com/in/luis-altuve)
 
